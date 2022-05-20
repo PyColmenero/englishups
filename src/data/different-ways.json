@@ -1,0 +1,78 @@
+{
+    "angry": [
+        "furious",
+        "annoyed",
+        "sore (dolorido)",
+        "enraged (enfurecido)",
+        "hateful",
+        "hostile (unfriendly)",
+        "irritated",
+        "unpleasant"
+    ],
+    "perfect": [
+        "ideal",
+        "best",
+        "faultless",
+        "flawless",
+        "exemplary"
+    ],
+    "sad": [
+        "sorrowful",
+        "depressed",
+        "desperate",
+        "dejected(abatido)",
+        "disgusted",
+        "heavy",
+        "crushed",
+        "upset",
+        "hateful (aborrecido)",
+        "weepy (llorón)"
+    ],
+    "dangerous": [
+        "penilous",
+        "menacing (amenazador)",
+        "threatening",
+        "savage",
+        "treachenous(engañoso)",
+        "vicious"
+    ],
+    "tired": [
+        "dead tired",
+        "weary (fatigado)",
+        "powerless",
+        "distresse (angustiado)",
+        "drained (agotado)",
+        "dull",
+        "fatigued",
+        "irritated",
+        "overworked",
+        "listless (apático)",
+        "knackered"
+    ],
+    "happy": [
+        "jubilant",
+        "amused",
+        "glad",
+        "delighted",
+        "joyful",
+        "pleased",
+        "content",
+        "charmed",
+        "grateful",
+        "optimistic"
+    ],
+    "confused": [
+        "perplexed",
+        "doubtful",
+        "uncertain (inseguro)",
+        "hesitant (titubeante)",
+        "shy",
+        "puzzled",
+        "indecisive",
+        "perplexed"
+    ],
+    "poor": [
+        "destitute",
+        "pauper"
+    ]
+}

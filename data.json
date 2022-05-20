@@ -1,0 +1,918 @@
+[{
+        "data": {
+            "logProductInteraction": true
+        },
+        "extensions": {
+            "mutatedFields": [
+                "logProductInteraction"
+            ]
+        }
+    },
+    {
+        "data": {
+            "writePersonalCache": true
+        },
+        "extensions": {
+            "mutatedFields": [
+                "writePersonalCache"
+            ]
+        }
+    },
+    {
+        "data": {
+            "cachedFilters": null,
+            "cachedPrefs": null,
+            "locations": [{
+                "locationId": 15143547,
+                "parentGeoId": 187429,
+                "name": "Ohtels Gran Hotel Almería",
+                "placeType": "ACCOMMODATION",
+                "reviewSummary": {
+                    "rating": 3.5,
+                    "count": 151
+                },
+                "currentUserOwnerStatus": null,
+                "accommodationCategory": "HOTEL",
+                "url": "/Hotel_Review-g187429-d15143547-Reviews-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                "reviewListPage": {
+                    "totalCount": 26,
+                    "preferredReviewIds": [],
+                    "reviews": [{
+                            "id": 824027426,
+                            "url": "/ShowUserReviews-g187429-d15143547-r824027426-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "location": {
+                                "locationId": 15143547,
+                                "name": "Ohtels Gran Hotel Almería",
+                                "placeType": "ACCOMMODATION",
+                                "parentGeoId": 187429,
+                                "__typename": "LocationInformation",
+                                "additionalNames": {
+                                    "normal": "Ohtels Gran Hotel Almería",
+                                    "long": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParent": "España",
+                                    "longParentAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentAbbreviated": "España",
+                                    "longParentStateAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentStateAbbreviated": "España",
+                                    "geo": "Almería",
+                                    "abbreviated": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedRaw": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritory": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritoryRaw": "Ohtels Gran Hotel Almería"
+                                },
+                                "parent": {
+                                    "locationId": 187429,
+                                    "additionalNames": {
+                                        "normal": "Almería",
+                                        "long": "Almería, España",
+                                        "longOnlyParent": "España",
+                                        "longParentAbbreviated": "Almería, España",
+                                        "longOnlyParentAbbreviated": "España",
+                                        "longParentStateAbbreviated": "Almería, España",
+                                        "longOnlyParentStateAbbreviated": "España",
+                                        "geo": "Almería",
+                                        "abbreviated": "Almería",
+                                        "abbreviatedRaw": "Almería",
+                                        "abbreviatedStateTerritory": "Almería",
+                                        "abbreviatedStateTerritoryRaw": "Almería"
+                                    }
+                                }
+                            },
+                            "createdDate": "2022-01-05",
+                            "publishedDate": "2022-01-05",
+                            "provider": {
+                                "isLocalProvider": true,
+                                "isToolsProvider": true
+                            },
+                            "userProfile": {
+                                "id": "B056B333C24EC0822630399EF01F82F4",
+                                "userId": "B056B333C24EC0822630399EF01F82F4",
+                                "isMe": false,
+                                "isVerified": false,
+                                "displayName": "Pirate1966",
+                                "username": "Pirate1966",
+                                "avatar": {
+                                    "id": 115871634,
+                                    "photoSizes": [{
+                                            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e8/0f/92/pirate1966.jpg?w=100&h=100&s=1",
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/e8/0f/92/pirate1966.jpg",
+                                            "width": 50,
+                                            "height": 50
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/e8/0f/92/pirate1966.jpg",
+                                            "width": 150,
+                                            "height": 150
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/e8/0f/92/pirate1966.jpg",
+                                            "width": 154,
+                                            "height": 205
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/e8/0f/92/pirate1966.jpg",
+                                            "width": 337,
+                                            "height": 450
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/e8/0f/92/pirate1966.jpg",
+                                            "width": 960,
+                                            "height": 1280
+                                        }
+                                    ]
+                                },
+                                "hometown": {
+                                    "locationId": 190725,
+                                    "fallbackString": "190725",
+                                    "location": {
+                                        "locationId": 190725,
+                                        "additionalNames": {
+                                            "long": "Ipswich, Reino Unido"
+                                        },
+                                        "name": "Ipswich"
+                                    }
+                                },
+                                "contributionCounts": {
+                                    "sumAllUgc": 170,
+                                    "helpfulVote": 35
+                                },
+                                "route": {
+                                    "url": "/Profile/Pirate1966"
+                                },
+                                "isFollowing": false
+                            },
+                            "rating": 4,
+                            "publishPlatform": "MOBILE",
+                            "title": "2 nights in Almeria",
+                            "language": "en",
+                            "translationType": null,
+                            "mgmtResponse": {
+                                "id": 824521148,
+                                "language": "en",
+                                "translationType": null,
+                                "text": "Dear Pirate66\n\nWe thank you for your review by which you help us improve day by day, we hope to see you again soon.\n\nBest Regards",
+                                "publishedDate": "2022-01-09",
+                                "username": "Dirección Ohtels Gran Hotel Almería",
+                                "connectionToSubject": "Director General"
+                            },
+                            "roomTip": null,
+                            "tripInfo": {
+                                "stayDate": "2022-01-31",
+                                "tripType": "COUPLES"
+                            },
+                            "additionalRatings": [],
+                            "text": "We have just had a really good 2 night stay here and the hotel did exactly what it said on the tin. It was in a great location for the centre and great views out to sea and across at the port. We paid extra to park at the hotel however looking at other charges this was a cheaper option we believe. We didn’t eat or drink at the hotel as there was so many great options around and then we brought our own drinks to sit out on the balcony and enjoy the views. Rooms clean although some areas needed updating but nothing to spoil our stay.",
+                            "username": "Pirate1966",
+                            "connectionToSubject": null,
+                            "locationId": 15143547,
+                            "absoluteUrl": "https://www.tripadvisor.es/ShowUserReviews-g187429-d15143547-r824027426-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "mcid": 0,
+                            "mtProviderId": 0,
+                            "photos": [],
+                            "original": null,
+                            "attribution": null,
+                            "__typename": "Review",
+                            "helpfulVotes": 0,
+                            "photoIds": [],
+                            "route": {
+                                "url": "/ShowUserReviews-g187429-d15143547-r824027426-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html"
+                            },
+                            "socialStatistics": {
+                                "followCount": 0,
+                                "isFollowing": false,
+                                "isLiked": false,
+                                "isReposted": false,
+                                "isSaved": false,
+                                "likeCount": 0,
+                                "repostCount": 0,
+                                "tripCount": 0
+                            },
+                            "status": "PUBLISHED",
+                            "userId": "B056B333C24EC0822630399EF01F82F4",
+                            "originalLanguage": "en",
+                            "labels": [],
+                            "alertStatus": false
+                        },
+                        {
+                            "id": 818275538,
+                            "url": "/ShowUserReviews-g187429-d15143547-r818275538-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "location": {
+                                "locationId": 15143547,
+                                "name": "Ohtels Gran Hotel Almería",
+                                "placeType": "ACCOMMODATION",
+                                "parentGeoId": 187429,
+                                "__typename": "LocationInformation",
+                                "additionalNames": {
+                                    "normal": "Ohtels Gran Hotel Almería",
+                                    "long": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParent": "España",
+                                    "longParentAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentAbbreviated": "España",
+                                    "longParentStateAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentStateAbbreviated": "España",
+                                    "geo": "Almería",
+                                    "abbreviated": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedRaw": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritory": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritoryRaw": "Ohtels Gran Hotel Almería"
+                                },
+                                "parent": {
+                                    "locationId": 187429,
+                                    "additionalNames": {
+                                        "normal": "Almería",
+                                        "long": "Almería, España",
+                                        "longOnlyParent": "España",
+                                        "longParentAbbreviated": "Almería, España",
+                                        "longOnlyParentAbbreviated": "España",
+                                        "longParentStateAbbreviated": "Almería, España",
+                                        "longOnlyParentStateAbbreviated": "España",
+                                        "geo": "Almería",
+                                        "abbreviated": "Almería",
+                                        "abbreviatedRaw": "Almería",
+                                        "abbreviatedStateTerritory": "Almería",
+                                        "abbreviatedStateTerritoryRaw": "Almería"
+                                    }
+                                }
+                            },
+                            "createdDate": "2021-11-11",
+                            "publishedDate": "2021-11-11",
+                            "provider": {
+                                "isLocalProvider": true,
+                                "isToolsProvider": true
+                            },
+                            "userProfile": {
+                                "id": "DF13EF60594C237AFC6ACFEEAFBFC62A",
+                                "userId": "DF13EF60594C237AFC6ACFEEAFBFC62A",
+                                "isMe": false,
+                                "isVerified": false,
+                                "displayName": "Karl",
+                                "username": "karlpK6498FS",
+                                "avatar": {
+                                    "id": 452391608,
+                                    "photoSizes": [{
+                                            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg?w=100&h=100&s=1",
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 50,
+                                            "height": 50
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 150,
+                                            "height": 150
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-i/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 180,
+                                            "height": 200
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 205,
+                                            "height": 205
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 450,
+                                            "height": 450
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 550,
+                                            "height": 550
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-w/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 1024,
+                                            "height": 1024
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+                                            "width": 1200,
+                                            "height": 1200
+                                        }
+                                    ]
+                                },
+                                "hometown": {
+                                    "locationId": null,
+                                    "fallbackString": null,
+                                    "location": null
+                                },
+                                "contributionCounts": {
+                                    "sumAllUgc": 2,
+                                    "helpfulVote": 1
+                                },
+                                "route": {
+                                    "url": "/Profile/karlpK6498FS"
+                                },
+                                "isFollowing": false
+                            },
+                            "rating": 2,
+                            "publishPlatform": "MOBILE",
+                            "title": "Average hotel, good location, terrible food. ",
+                            "language": "en",
+                            "translationType": null,
+                            "mgmtResponse": null,
+                            "roomTip": "Underground parking is extremely narrow, and no elevator to the main hotel",
+                            "tripInfo": {
+                                "stayDate": "2021-11-30",
+                                "tripType": "BUSINESS"
+                            },
+                            "additionalRatings": [],
+                            "text": "Great location, reasonably clean rooms and the staff are friendly. The hotel could certainly use an update. Avoid the food at all costs, it's absolutely terrible and certainly not worth the extra cost. Average experience, I'm sure there are better options for the price. ",
+                            "username": "Karl P",
+                            "connectionToSubject": null,
+                            "locationId": 15143547,
+                            "absoluteUrl": "https://www.tripadvisor.es/ShowUserReviews-g187429-d15143547-r818275538-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "mcid": 0,
+                            "mtProviderId": 0,
+                            "photos": [],
+                            "original": null,
+                            "attribution": null,
+                            "__typename": "Review",
+                            "helpfulVotes": 0,
+                            "photoIds": [],
+                            "route": {
+                                "url": "/ShowUserReviews-g187429-d15143547-r818275538-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html"
+                            },
+                            "socialStatistics": {
+                                "followCount": 0,
+                                "isFollowing": false,
+                                "isLiked": false,
+                                "isReposted": false,
+                                "isSaved": false,
+                                "likeCount": 0,
+                                "repostCount": 0,
+                                "tripCount": 0
+                            },
+                            "status": "PUBLISHED",
+                            "userId": "DF13EF60594C237AFC6ACFEEAFBFC62A",
+                            "originalLanguage": "en",
+                            "labels": [],
+                            "alertStatus": false
+                        },
+                        {
+                            "id": 771401139,
+                            "url": "/ShowUserReviews-g187429-d15143547-r771401139-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "location": {
+                                "locationId": 15143547,
+                                "name": "Ohtels Gran Hotel Almería",
+                                "placeType": "ACCOMMODATION",
+                                "parentGeoId": 187429,
+                                "__typename": "LocationInformation",
+                                "additionalNames": {
+                                    "normal": "Ohtels Gran Hotel Almería",
+                                    "long": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParent": "España",
+                                    "longParentAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentAbbreviated": "España",
+                                    "longParentStateAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentStateAbbreviated": "España",
+                                    "geo": "Almería",
+                                    "abbreviated": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedRaw": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritory": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritoryRaw": "Ohtels Gran Hotel Almería"
+                                },
+                                "parent": {
+                                    "locationId": 187429,
+                                    "additionalNames": {
+                                        "normal": "Almería",
+                                        "long": "Almería, España",
+                                        "longOnlyParent": "España",
+                                        "longParentAbbreviated": "Almería, España",
+                                        "longOnlyParentAbbreviated": "España",
+                                        "longParentStateAbbreviated": "Almería, España",
+                                        "longOnlyParentStateAbbreviated": "España",
+                                        "geo": "Almería",
+                                        "abbreviated": "Almería",
+                                        "abbreviatedRaw": "Almería",
+                                        "abbreviatedStateTerritory": "Almería",
+                                        "abbreviatedStateTerritoryRaw": "Almería"
+                                    }
+                                }
+                            },
+                            "createdDate": "2020-09-22",
+                            "publishedDate": "2020-09-21",
+                            "provider": {
+                                "isLocalProvider": true,
+                                "isToolsProvider": true
+                            },
+                            "userProfile": {
+                                "id": "9B9D0ADFBB2F817D293CBD210B67534F",
+                                "userId": "9B9D0ADFBB2F817D293CBD210B67534F",
+                                "isMe": false,
+                                "isVerified": false,
+                                "displayName": "jackiew296",
+                                "username": "jackiew296",
+                                "avatar": {
+                                    "id": 452388198,
+                                    "photoSizes": [{
+                                            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg?w=100&h=100&s=1",
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 50,
+                                            "height": 50
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 150,
+                                            "height": 150
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-i/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 180,
+                                            "height": 200
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 205,
+                                            "height": 205
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 450,
+                                            "height": 450
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 550,
+                                            "height": 550
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-w/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 1024,
+                                            "height": 1024
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg",
+                                            "width": 1200,
+                                            "height": 1200
+                                        }
+                                    ]
+                                },
+                                "hometown": {
+                                    "locationId": 186338,
+                                    "fallbackString": "186338",
+                                    "location": {
+                                        "locationId": 186338,
+                                        "additionalNames": {
+                                            "long": "Londres, Reino Unido"
+                                        },
+                                        "name": "Londres"
+                                    }
+                                },
+                                "contributionCounts": {
+                                    "sumAllUgc": 64,
+                                    "helpfulVote": 44
+                                },
+                                "route": {
+                                    "url": "/Profile/jackiew296"
+                                },
+                                "isFollowing": false
+                            },
+                            "rating": 4,
+                            "publishPlatform": "MOBILE",
+                            "title": "A very pleasant hotel",
+                            "language": "en",
+                            "translationType": null,
+                            "mgmtResponse": {
+                                "id": 772585330,
+                                "language": "en",
+                                "translationType": null,
+                                "text": "Dear Jackiew296,\n\nThank you very much for choosing us for your stay in Almeria.\n\nThank you again for choosing Gran Hotel Amería for your visit to Almería and for taking part of your time to write this comment. Your opinion is very valuable to us.\n\nOur greatest motivation is to satisfy customers , so we appreciate your observation, and we get to work to make improvements in regards. \nWe hope to see you soon and give us another chance to improve your experience.\n\nReceive a cordial greeting on behalf of the entire Gran Hotel Almería team.\n",
+                                "publishedDate": "2020-09-30",
+                                "username": "Dirección Ohtels Gran Hotel Almería",
+                                "connectionToSubject": "Director General"
+                            },
+                            "roomTip": null,
+                            "tripInfo": {
+                                "stayDate": "2020-09-30",
+                                "tripType": "FRIENDS"
+                            },
+                            "additionalRatings": [],
+                            "text": "An ideally situated very stylish hotel with rooms overlooking the sea and port. Having a balcony with such a lovely view is a real bonus as is the swimming pool with its comfortable loungers. \nThe whole hotel was sparklingly clean and the staff very friendly and helpful. \nFor me the only negatives were the very protracted check-in process and the rather expensive breakfast - we only wanted coffee! ",
+                            "username": "jackiew296",
+                            "connectionToSubject": null,
+                            "locationId": 15143547,
+                            "absoluteUrl": "https://www.tripadvisor.es/ShowUserReviews-g187429-d15143547-r771401139-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "mcid": 0,
+                            "mtProviderId": 0,
+                            "photos": [],
+                            "original": null,
+                            "attribution": null,
+                            "__typename": "Review",
+                            "helpfulVotes": 1,
+                            "photoIds": [],
+                            "route": {
+                                "url": "/ShowUserReviews-g187429-d15143547-r771401139-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html"
+                            },
+                            "socialStatistics": {
+                                "followCount": 0,
+                                "isFollowing": false,
+                                "isLiked": false,
+                                "isReposted": false,
+                                "isSaved": false,
+                                "likeCount": 1,
+                                "repostCount": 0,
+                                "tripCount": 0
+                            },
+                            "status": "PUBLISHED",
+                            "userId": "9B9D0ADFBB2F817D293CBD210B67534F",
+                            "originalLanguage": "en",
+                            "labels": [],
+                            "alertStatus": false
+                        },
+                        {
+                            "id": 770120174,
+                            "url": "/ShowUserReviews-g187429-d15143547-r770120174-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "location": {
+                                "locationId": 15143547,
+                                "name": "Ohtels Gran Hotel Almería",
+                                "placeType": "ACCOMMODATION",
+                                "parentGeoId": 187429,
+                                "__typename": "LocationInformation",
+                                "additionalNames": {
+                                    "normal": "Ohtels Gran Hotel Almería",
+                                    "long": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParent": "España",
+                                    "longParentAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentAbbreviated": "España",
+                                    "longParentStateAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentStateAbbreviated": "España",
+                                    "geo": "Almería",
+                                    "abbreviated": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedRaw": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritory": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritoryRaw": "Ohtels Gran Hotel Almería"
+                                },
+                                "parent": {
+                                    "locationId": 187429,
+                                    "additionalNames": {
+                                        "normal": "Almería",
+                                        "long": "Almería, España",
+                                        "longOnlyParent": "España",
+                                        "longParentAbbreviated": "Almería, España",
+                                        "longOnlyParentAbbreviated": "España",
+                                        "longParentStateAbbreviated": "Almería, España",
+                                        "longOnlyParentStateAbbreviated": "España",
+                                        "geo": "Almería",
+                                        "abbreviated": "Almería",
+                                        "abbreviatedRaw": "Almería",
+                                        "abbreviatedStateTerritory": "Almería",
+                                        "abbreviatedStateTerritoryRaw": "Almería"
+                                    }
+                                }
+                            },
+                            "createdDate": "2020-09-13",
+                            "publishedDate": "2020-09-13",
+                            "provider": {
+                                "isLocalProvider": true,
+                                "isToolsProvider": true
+                            },
+                            "userProfile": {
+                                "id": "E2DBA524F9BB9DB0B4F921BC83452134",
+                                "userId": "E2DBA524F9BB9DB0B4F921BC83452134",
+                                "isMe": false,
+                                "isVerified": false,
+                                "displayName": "Almeria2000",
+                                "username": "Almeria2000",
+                                "avatar": {
+                                    "id": 278523038,
+                                    "photoSizes": [{
+                                            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/99/ec/9e/2017spain.jpg?w=100&h=100&s=1",
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/99/ec/9e/2017spain.jpg",
+                                            "width": 50,
+                                            "height": 50
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/99/ec/9e/2017spain.jpg",
+                                            "width": 150,
+                                            "height": 150
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-i/10/99/ec/9e/2017spain.jpg",
+                                            "width": 180,
+                                            "height": 200
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/99/ec/9e/2017spain.jpg",
+                                            "width": 205,
+                                            "height": 205
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/99/ec/9e/2017spain.jpg",
+                                            "width": 450,
+                                            "height": 450
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-p/10/99/ec/9e/2017spain.jpg",
+                                            "width": 550,
+                                            "height": 550
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/99/ec/9e/2017spain.jpg",
+                                            "width": 1024,
+                                            "height": 1024
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/99/ec/9e/2017spain.jpg",
+                                            "width": 1024,
+                                            "height": 1024
+                                        }
+                                    ]
+                                },
+                                "hometown": {
+                                    "locationId": 187429,
+                                    "fallbackString": "187429",
+                                    "location": {
+                                        "locationId": 187429,
+                                        "additionalNames": {
+                                            "long": "Almería, España"
+                                        },
+                                        "name": "Almería"
+                                    }
+                                },
+                                "contributionCounts": {
+                                    "sumAllUgc": 327,
+                                    "helpfulVote": 150
+                                },
+                                "route": {
+                                    "url": "/Profile/Almeria2000"
+                                },
+                                "isFollowing": false
+                            },
+                            "rating": 3,
+                            "publishPlatform": "OTHER",
+                            "title": "Friendly staff but terrible soundproofing in the bedrooms",
+                            "language": "en",
+                            "translationType": null,
+                            "mgmtResponse": {
+                                "id": 770265684,
+                                "language": "en",
+                                "translationType": null,
+                                "text": "Dear Almería2020,\n\nWe thank you for taking the time to share with us and many other readers your comments about your experience at our hotel.\n\nWe remain at your entire disposal and we hope you visit us again and enjoy Gran Hotel Almería.\n\nSincerely yours,",
+                                "publishedDate": "2020-09-14",
+                                "username": "Dirección Ohtels Gran Hotel Almería",
+                                "connectionToSubject": "Director General"
+                            },
+                            "roomTip": "High and at the end of corridor.",
+                            "tripInfo": {
+                                "stayDate": "2020-09-30",
+                                "tripType": "BUSINESS"
+                            },
+                            "additionalRatings": [{
+                                    "rating": 2,
+                                    "ratingLabel": "Habitaciones"
+                                },
+                                {
+                                    "rating": 4,
+                                    "ratingLabel": "Limpieza"
+                                },
+                                {
+                                    "rating": 5,
+                                    "ratingLabel": "Servicio"
+                                }
+                            ],
+                            "text": "Location - right by the port, so handy for the old town and the beaches.\n\nStaff - the best part about this hotel. Very friendly female receptionist and lovely male waiters/bar staff.\n\nBedrooms - I asked for a quiet twin room. To be fair, they had kindly upgraded us to a 6th floor suite but it had a double bed, and was located right between the 2 lifts shafts, so not quiet at all. They then moved us to a 2nd floor room, which has to be the worst soundproofing I´ve come across in many years  ..... the noise from the event (music allowed until 1am), the guests drinking by the pool terrace, the traffic outside (specifically motorbikes, buses and police sirens), every word from guests walking along the corridor and even most of the sounds from the adjoining bedrooms. We were offered another room, but we decided to check-out.\n\nParking - 12 spaces under the hotel for €16 a night. If these are booked, there are 3 nearby options. Puerto de Almería, Plaza López Falcón, Parking Oliveros. \n\nPool - small with a few sunbeds and chairs/tables.\n\nBar - nicely decorated with a small selection of food.\n\n€72 for two people for bed & breakfast. I prefer Nuevo Torreluz & AC at a similar price.",
+                            "username": "Almeria2000",
+                            "connectionToSubject": null,
+                            "locationId": 15143547,
+                            "absoluteUrl": "https://www.tripadvisor.es/ShowUserReviews-g187429-d15143547-r770120174-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "mcid": 0,
+                            "mtProviderId": 0,
+                            "photos": [],
+                            "original": null,
+                            "attribution": null,
+                            "__typename": "Review",
+                            "helpfulVotes": 0,
+                            "photoIds": [],
+                            "route": {
+                                "url": "/ShowUserReviews-g187429-d15143547-r770120174-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html"
+                            },
+                            "socialStatistics": {
+                                "followCount": 0,
+                                "isFollowing": false,
+                                "isLiked": false,
+                                "isReposted": false,
+                                "isSaved": false,
+                                "likeCount": 0,
+                                "repostCount": 0,
+                                "tripCount": 0
+                            },
+                            "status": "PUBLISHED",
+                            "userId": "E2DBA524F9BB9DB0B4F921BC83452134",
+                            "originalLanguage": "en",
+                            "labels": [],
+                            "alertStatus": false
+                        },
+                        {
+                            "id": 744969110,
+                            "url": "/ShowUserReviews-g187429-d15143547-r744969110-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "location": {
+                                "locationId": 15143547,
+                                "name": "Ohtels Gran Hotel Almería",
+                                "placeType": "ACCOMMODATION",
+                                "parentGeoId": 187429,
+                                "__typename": "LocationInformation",
+                                "additionalNames": {
+                                    "normal": "Ohtels Gran Hotel Almería",
+                                    "long": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParent": "España",
+                                    "longParentAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentAbbreviated": "España",
+                                    "longParentStateAbbreviated": "Ohtels Gran Hotel Almería, España",
+                                    "longOnlyParentStateAbbreviated": "España",
+                                    "geo": "Almería",
+                                    "abbreviated": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedRaw": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritory": "Ohtels Gran Hotel Almería",
+                                    "abbreviatedStateTerritoryRaw": "Ohtels Gran Hotel Almería"
+                                },
+                                "parent": {
+                                    "locationId": 187429,
+                                    "additionalNames": {
+                                        "normal": "Almería",
+                                        "long": "Almería, España",
+                                        "longOnlyParent": "España",
+                                        "longParentAbbreviated": "Almería, España",
+                                        "longOnlyParentAbbreviated": "España",
+                                        "longParentStateAbbreviated": "Almería, España",
+                                        "longOnlyParentStateAbbreviated": "España",
+                                        "geo": "Almería",
+                                        "abbreviated": "Almería",
+                                        "abbreviatedRaw": "Almería",
+                                        "abbreviatedStateTerritory": "Almería",
+                                        "abbreviatedStateTerritoryRaw": "Almería"
+                                    }
+                                }
+                            },
+                            "createdDate": "2020-02-14",
+                            "publishedDate": "2020-02-13",
+                            "provider": {
+                                "isLocalProvider": true,
+                                "isToolsProvider": true
+                            },
+                            "userProfile": {
+                                "id": "3AA19E77D77C116457147ED3FACBFBE0",
+                                "userId": "3AA19E77D77C116457147ED3FACBFBE0",
+                                "isMe": false,
+                                "isVerified": false,
+                                "displayName": "The Babster C",
+                                "username": "thebabsterc",
+                                "avatar": {
+                                    "id": 372261513,
+                                    "photoSizes": [{
+                                            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/30/42/89/the-babster-c.jpg?w=100&h=100&s=1",
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/30/42/89/the-babster-c.jpg",
+                                            "width": 50,
+                                            "height": 50
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/30/42/89/the-babster-c.jpg",
+                                            "width": 150,
+                                            "height": 150
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-i/16/30/42/89/the-babster-c.jpg",
+                                            "width": 180,
+                                            "height": 200
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/30/42/89/the-babster-c.jpg",
+                                            "width": 205,
+                                            "height": 205
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/30/42/89/the-babster-c.jpg",
+                                            "width": 450,
+                                            "height": 450
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-p/16/30/42/89/the-babster-c.jpg",
+                                            "width": 550,
+                                            "height": 550
+                                        },
+                                        {
+                                            "url": "https://media-cdn.tripadvisor.com/media/photo-o/16/30/42/89/the-babster-c.jpg",
+                                            "width": 724,
+                                            "height": 724
+                                        }
+                                    ]
+                                },
+                                "hometown": {
+                                    "locationId": 187523,
+                                    "fallbackString": "187523",
+                                    "location": {
+                                        "locationId": 187523,
+                                        "additionalNames": {
+                                            "long": "Costa Blanca, España"
+                                        },
+                                        "name": "Costa Blanca"
+                                    }
+                                },
+                                "contributionCounts": {
+                                    "sumAllUgc": 153,
+                                    "helpfulVote": 134
+                                },
+                                "route": {
+                                    "url": "/Profile/thebabsterc"
+                                },
+                                "isFollowing": false
+                            },
+                            "rating": 3,
+                            "publishPlatform": "OTHER",
+                            "title": "Tired hotel",
+                            "language": "en",
+                            "translationType": null,
+                            "mgmtResponse": {
+                                "id": 749433975,
+                                "language": "en",
+                                "translationType": null,
+                                "text": "Dear guest,\n\nThank you very much for choosing us for your stay in Almeria.\n\nThank you again for choosing Gran Hotel Amería for your visit to Almería and for taking part of your time to write this comment. Your opinion is very valuable to us.\n\nOur greatest motivation is to satisfy customers , so we appreciate your observation, and we get to work to make improvements in regards. \nWe hope to see you soon and give us another chance to improve your experience.\n\nReceive a cordial greeting on behalf of the entire Gran Hotel Almería team.\n\nMiguel Garcia-Romanillos\n",
+                                "publishedDate": "2020-03-05",
+                                "username": "Dirección O",
+                                "connectionToSubject": "Director General"
+                            },
+                            "roomTip": null,
+                            "tripInfo": {
+                                "stayDate": "2020-02-29",
+                                "tripType": "COUPLES"
+                            },
+                            "additionalRatings": [],
+                            "text": "This is in a great location right in the centre and at the beach .  Parking is 10 euro a night.  No kettle and coffee in the room despite having that in the Ohtel in Gibraltar\nThe place is dated and tired but clean enough.  Breakfast was ok plenty of choice !",
+                            "username": "The Babster C",
+                            "connectionToSubject": null,
+                            "locationId": 15143547,
+                            "absoluteUrl": "https://www.tripadvisor.es/ShowUserReviews-g187429-d15143547-r744969110-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html",
+                            "mcid": 14706,
+                            "mtProviderId": 0,
+                            "photos": [],
+                            "original": null,
+                            "attribution": null,
+                            "__typename": "Review",
+                            "helpfulVotes": 2,
+                            "photoIds": [],
+                            "route": {
+                                "url": "/ShowUserReviews-g187429-d15143547-r744969110-Ohtels_Gran_Hotel_Almeria-Almeria_Province_of_Almeria_Andalucia.html"
+                            },
+                            "socialStatistics": {
+                                "followCount": 0,
+                                "isFollowing": false,
+                                "isLiked": false,
+                                "isReposted": false,
+                                "isSaved": false,
+                                "likeCount": 2,
+                                "repostCount": 0,
+                                "tripCount": 0
+                            },
+                            "status": "PUBLISHED",
+                            "userId": "3AA19E77D77C116457147ED3FACBFBE0",
+                            "originalLanguage": "en",
+                            "labels": [],
+                            "alertStatus": false
+                        }
+                    ]
+                },
+                "reviewAggregations": {
+                    "ratingCounts": [
+                        18,
+                        15,
+                        26,
+                        46,
+                        46
+                    ],
+                    "languageCounts": {
+                        "de": 3,
+                        "sv": 2,
+                        "ru": 1,
+                        "en": 26,
+                        "it": 5,
+                        "fr": 12,
+                        "nl": 3,
+                        "es": 99
+                    },
+                    "alertStatusCount": 0
+                }
+            }]
+        }
+    }
+]

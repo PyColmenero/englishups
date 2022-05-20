@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    </script>
+
+    <style>
+        body {
+            margin: 0;
+        }
+        
+        #solution[data-hide="0"] {
+            display: none;
+        }
+        
+        main {
+            width: 90%;
+            margin: 0 auto;
+        }
+        
+        #reply {
+            padding: 0;
+            margin: 0;
+            height: 5rem;
+        }
+        
+        #showsolution {
+            width: 100%;
+            padding: .5rem 0;
+            margin: .5rem 0;
+        }
+        
+        #reply {
+            width: 100%;
+            padding: .5rem;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        
+        #firstLanguage {
+            font-size: 2rem;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        
+        #back {
+            display: flex;
+            justify-content: flex-end;
+            margin: 1rem;
+        }
+        
+        #back button {
+            border: 0;
+            padding: .5rem 1rem;
+        }
+        
+        #solution {
+            background-color: whitesmoke;
+            padding: .5rem;
+        }
+        
+        dl {
+            margin: .5rem;
+        }
+        
+        #nextword {
+            width: 20%;
+            padding: .2rem;
+            margin-top: 1rem;
+        }
+        
+        dt:first-letter,
+        dd:first-letter {
+            text-transform: capitalize;
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+    <main>
+        <p id="firstLanguage">Back up</p>
+        <label>Tu Respuesta:</label>
+        <textarea type="text" id="reply"></textarea>
+        <button id="showsolution">Show solution</button>
+        <div id="solution" data-hide="0"></div>
+    </main>
+
+    <div id="back">
+        <a href="./index.html"><button>Volver</button></a>
+    </div>
+
+    <script>
+        let href = location.href;
+        let origin = location.origin;
+
+        let firstLanguage = $("#firstLanguage");
+        let input_reply = $("#reply");
+        let div_solution = $("#solution");
+        let showsolution = $("#showsolution");
+        let nextword = $("#nextword");
+
+        let indexword = 0;
+        let words = [];
+        let incorrect_words = [];
+        let package = getParameterByName("pa");
+        let packs = getParameterByName("p");
+        if (packs) {
+            packs = packs.split(",");
+            getPackages();
+        }
+
+        function getPackages() {
+
+            $.getJSON('./' + package + '.json', function(data) {
+
+                let index = 0;
+                let packindex = 0;
+                data[package].forEach(e => {
+
+                    packs.forEach(pack => {
+                        if (Math.trunc(index / 10) == parseInt(pack)) {
+                            words.push(e)
+                        }
+                    });
+                    index++;
+                });
+                words = words.sort((a, b) => 0.5 - Math.random());
+                showNextWord();
+
+            });
+
+        }
+
+        function showNextWord() {
+
+            let word = words[indexword];
+
+            firstLanguage.text(word.english);
+
+            var str = "";
+            word.spanish.forEach(e => {
+                console.log(e);
+                str += "<div>";
+                str += "<dl>";
+                str += "<dt> " + e.meaning + ":";
+                str += "<dd>" + e["english-example"] + "."
+                str += "</dd>";
+                str += "<dd>" + e["spanish-example"] + "."
+                str += "</dd>";
+                str += "</dt>"
+                str += "</dl>";
+                str += "</div>";
+            });
+            console.log(indexword, words.length);
+            if (indexword == words.length - 1) {
+                str += "<button id='nextword'>" + incorrect_words.length + " errors.</button>";
+                console.log(incorrect_words);
+            } else {
+                str += "<button id='goodbutton'>GOOD</button>"
+                str += "<button id='wrongbutton'>WRONG</button>"
+            }
+            div_solution.html(str);
+
+            input_reply.val("");
+            div_solution.attr("data-hide", 0);
+            indexword++;
+        }
+
+        showsolution.click(function() {
+            div_solution.attr("data-hide", (div_solution.attr("data-hide") == 0) ? "1" : "0");
+        })
+
+        $(document).on("click", "#goodbutton", function() {
+            showNextWord();
+        });
+        $(document).on("click", "#wrongbutton", function() {
+            incorrect_words.push(indexword);
+            showNextWord();
+        });
+
+
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+    </script>
+
+</body>
+
+</html>

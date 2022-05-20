@@ -1,0 +1,3686 @@
+[{
+        "infinitive": "Wake up sb",
+        "root": "Wake",
+        "addon": "up",
+        "aux": "sb",
+        "meanings": [{
+            "english": "Stop Sleeping, make someone stop steeping",
+            "spanish": "Despertarse",
+            "example": [
+                "I usually wake up at 8 o'clock"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Cheer sb up",
+        "root": "Cheer",
+        "addon": "up",
+        "aux": "sb",
+        "meanings": [{
+            "english": "Become happier or make someone happier",
+            "spanish": "Animar",
+            "example": [
+                "Jenny felt depressed, to I cheered her up"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Give up sb",
+        "root": "Give",
+        "addon": "up",
+        "aux": "sb",
+        "meanings": [{
+            "english": "Stop doing a regular activity",
+            "spanish": "Rendirse",
+            "example": [
+                "Mark gave up smoking two months ago"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Go up",
+        "root": "Go",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "english": "Rise , increase",
+            "spanish": "Incrementar",
+            "example": [
+                "The price of petrol is going up"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Look up sth",
+        "root": "Look",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Search and find information in a reference work",
+            "spanish": "Investigar",
+            "example": [
+                "I don't know what this word means, I'll look it up in the dictionary"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Shut up",
+        "root": "Shut",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "english": "Stop talking (rude)",
+            "spanish": "Callarse",
+            "example": [
+                "Shut up! I don't care what you think about it!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Speak up",
+        "root": "Pick",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "english": "Speak more loudly",
+            "spanish": "Hablar más alto",
+            "example": [
+                "Please speak up ! I can't hear you"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Try on sth",
+        "root": "Try",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Put clothes on to see if they fit well",
+            "spanish": "Probar ropa para ver si queda bien",
+            "example": [
+                "Can you try on this dress, please?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Call back sb",
+        "root": "Call",
+        "addon": "back",
+        "aux": "sb",
+        "meanings": [{
+            "english": "return a phone call or call someone again",
+            "spanish": "Devolver llamada o volver a llamar a alguien",
+            "example": [
+                "Call me back when you are not busy"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Go back",
+        "root": "Go",
+        "addon": "back",
+        "aux": "",
+        "meanings": [{
+            "english": "Return to place",
+            "spanish": "Volver a un sitio",
+            "example": [
+                "It started to rain, so we decided to go back home"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Pay back sb/sth",
+        "root": "Pay",
+        "addon": "back",
+        "aux": "sb/sth",
+        "meanings": [{
+            "english": "Return the money that you borrowed",
+            "spanish": "Devolver el dinero que te prestaron",
+            "example": [
+                "When are you going to pay me back the money that i gave you?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Shop around",
+        "root": "Shop",
+        "addon": "around",
+        "aux": "",
+        "meanings": [{
+            "english": "Go to several shops looking for better price or quality",
+            "spanish": "Ir de tiendas, sin comprar buscando los más barato/calidad",
+            "example": [
+                "I want to shop around before buying a new computer"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Give back sth",
+        "root": "Give",
+        "addon": "back",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Return something",
+            "spanish": "Devolver algo",
+            "example": [
+                "Don't forget to give the books back to the library"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Wash up sth",
+        "root": "Wash",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Wash dishes after a meal",
+            "spanish": "Lavar los platos",
+            "example": [
+                "If you cook dinner I promise to wash up"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Put away sth",
+        "root": "Put",
+        "addon": "away",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Put something in the place where it usually kept",
+            "spanish": "Desaparecer",
+            "example": [
+                "She asked her son to put away all his toys before going to bed"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Run away",
+        "root": "Run",
+        "addon": "away",
+        "aux": "",
+        "meanings": [{
+            "english": "Leave the place by running",
+            "spanish": "Huir",
+            "example": [
+                "The thief ran away from the police"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Throw away sth",
+        "root": "Throw",
+        "addon": "away",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Get rid of sth, discard",
+            "spanish": "-",
+            "example": [
+                "Don't throw away this letter, I need it"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Switch off sth",
+        "root": "Switch",
+        "addon": "off",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Stop an electrical item working",
+            "spanish": "Apagar algo eléctrico",
+            "example": [
+                "He switched off the light and went to bed"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Take off sth",
+        "root": "Take",
+        "addon": "off",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Remove something you are wearing",
+            "spanish": "Quitarte algo de ropa",
+            "example": [
+                "She felt happy to take off her shoes after a long day"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Come from",
+        "root": "Come",
+        "addon": "from",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Be from",
+            "spanish": "Provenir",
+            "example": [
+                "Where do you come from"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Hear from sb",
+        "root": "Hear",
+        "addon": "from",
+        "aux": "sb",
+        "meanings": [{
+            "english": "Receive news or information from sb",
+            "spanish": "-",
+            "example": [
+                "I havn't heard from Bill for ages"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Look after sb/sth",
+        "root": "Look",
+        "addon": "after",
+        "aux": "sb/sth",
+        "meanings": [{
+            "english": "Take care of someone of something",
+            "spanish": "Cuidar",
+            "example": [
+                "Can you look after our cat while we are away?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Look for sb/sth",
+        "root": "Look",
+        "addon": "for",
+        "aux": "sb/sth",
+        "meanings": [{
+            "english": "Try to find something or somewand",
+            "spanish": "Buscar",
+            "example": [
+                "I am looking for my mobile phone"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Look forward to sth",
+        "root": "Look",
+        "addon": "Z",
+        "aux": "Z",
+        "meanings": [{
+            "english": "Wait with pleasure",
+            "spanish": "-",
+            "example": [
+                "I'm looking forward to my holiday"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Belong to sb",
+        "root": "Belong",
+        "addon": "Z",
+        "aux": "Z",
+        "meanings": [{
+            "english": "Be someone's property",
+            "spanish": "-",
+            "example": [
+                "Who does this car belong to?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Think over sth",
+        "root": "Think",
+        "addon": "over",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Consider with carefully",
+            "spanish": "Cuidar",
+            "example": [
+                "I should think over this offer before we meet again"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Calm down",
+        "root": "Calm",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "Become more relaxed or help someone to become calm",
+            "spanish": "Relajar",
+            "example": [
+                "Calm down  my dear, nothing bad is going to happen"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Fall down",
+        "root": "Fall",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "Fall on the ground",
+            "spanish": "Caerse",
+            "example": [
+                "He fell down the stairs and broke his leg"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Lie down",
+        "root": "Fall",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "Place the body into horizontal position",
+            "spanish": "Tumbarse",
+            "example": [
+                "You look tired, why don't you like to lie down for a while?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Sit down",
+        "root": "Sit",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "Take a sit",
+            "spanish": "Sentarse",
+            "example": [
+                "Would you like to sit down?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Write down sth",
+        "root": "Write",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "Write sth on a piece of paper",
+            "spanish": "Anotar",
+            "example": [
+                "Write down my e-mail address, so you don't forget it"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Come on",
+        "root": "Come",
+        "addon": "on",
+        "aux": "",
+        "meanings": [{
+            "english": "Hurry up; also used to encourage someone to do something",
+            "spanish": "¡Vamos!",
+            "example": [
+                "Come on, we are going to be late!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Depend on sth/sb",
+        "root": "Depend",
+        "addon": "on",
+        "aux": "sth/sb",
+        "meanings": [{
+            "english": "Be influenced by, rely on",
+            "spanish": "",
+            "example": [
+                "It depends on the weather"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Go on ",
+        "root": "Go",
+        "addon": "on",
+        "aux": "",
+        "meanings": [{
+            "english": "Continue",
+            "spanish": "Continuar",
+            "example": [
+                "We can't go on living in such a small flat"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Switch on sth",
+        "root": "Switch",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Star an electrical device working",
+            "spanish": "Encender aparato electrónico",
+            "example": [
+                "He swtiched on the light and entered the room"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Find out sth",
+        "root": "Find",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Discover, get information about",
+            "spanish": "Descubrir",
+            "example": [
+                "He wants to find out the truth about what happened"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Watch out",
+        "root": "Watch",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "Be careful",
+            "spanish": "¡Atento! ¡Cuidado!",
+            "example": [
+                "Watch out! There is the train coming!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get up",
+        "root": "Get",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "english": "Wake up and get out of bed",
+            "spanish": "Levantarse",
+            "example": [
+                "What time do you usually get up"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Grow up",
+        "root": "Grow",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "english": "Become and adult",
+            "spanish": "Crecer",
+            "example": [
+                "What do you want to be when you grow up"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Hurry up",
+        "root": "Hurry",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "english": "Do sth more quickly",
+            "spanish": "Darse prisa",
+            "example": [
+                "Hurry up and finish your test"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Stand up",
+        "root": "Stand",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "english": "Rise to standing position",
+            "spanish": "Levantarse",
+            "example": [
+                "Everybody stood up when the teacher entered the classroom"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Save up sth",
+        "root": "Save",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Keep money so that you can buy sth",
+            "spanish": "Ahorrar",
+            "example": [
+                "I'm saving up for my trip to Italy"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Break down",
+        "root": "Break",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "Stop working",
+            "spanish": "Estropearse",
+            "example": [
+                "The lift broke down, so we had to use the stairs"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Believe in",
+        "root": "Believe",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Be sure that something exits",
+            "spanish": "Creer en algo",
+            "example": [
+                "Do you believe in God?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Check in",
+        "root": "Check",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Register at a hotel or airport",
+            "spanish": "Hacer el check-in",
+            "example": [
+                "They checked in at the Metropol Hotel last night"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Come in",
+        "root": "Come",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Enter a room, building",
+            "spanish": "Entrar",
+            "example": [
+                "Please, come in"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Fill in",
+        "root": "Fill",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Add information to a form",
+            "spanish": "Rellenar un formulario",
+            "example": [
+                "You need to fill in your name, address and telephone number"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Log in",
+        "root": "Log",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Start using a computer system",
+            "spanish": "Iniciar sesión",
+            "example": [
+                "I forgot my password and i couldn't log in"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Check out",
+        "root": "Check",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "Pay the bill and leave the hotel",
+            "spanish": "Hacer el check-out",
+            "example": [
+                "We checked out and took a taxi"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Read out sth",
+        "root": "Read",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Read something aloud for other people to hear",
+            "spanish": "Hablar en alto",
+            "example": [
+                "The teacher read out the rules"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Go out",
+        "root": "Go",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "Read something aloud for other people to hear",
+            "spanish": "Irse",
+            "example": [
+                "We love to go out every Friday night"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Log out",
+        "root": "Log",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "Stop using a computer system",
+            "spanish": "Cerrar sesión",
+            "example": [
+                "Don't forget to log out when you finish work in this programme"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Print out sth",
+        "root": "Print",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Make a printed copy of a computer document",
+            "spanish": "Imprimir",
+            "example": [
+                "He printed out the document"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Speed up sb/sth",
+        "root": "Speed",
+        "addon": "up",
+        "aux": "sb/sth",
+        "meanings": [{
+            "english": "More or happen more quickly",
+            "spanish": "Acelerar",
+            "example": [
+                "You are driving too slowly. Can you speed up a little?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Tidy up sth",
+        "root": "Tidy",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Clean up, put things in the correcto place",
+            "spanish": "Ordenar",
+            "example": [
+                "Tidy up your bedroom first and then you water television"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Turn up sth",
+        "root": "Turn",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Increase(volumen)",
+            "spanish": "Subir el volumen",
+            "example": [
+                "Can you turn up the TV? I cannot hear it"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get in",
+        "root": "Get",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Enter a car or taxi, arrive at home/work",
+            "spanish": "Entrar en un coche/taxi. LLegar a casa",
+            "example": [
+                "He opened the door of the car and got in"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Join in",
+        "root": "Join",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Take part in an activity",
+            "spanish": "Unirse",
+            "example": [
+                "Up to ten players can join in this game"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Move in",
+        "root": "Move",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Start living in a place",
+            "spanish": "Mudarse",
+            "example": [
+                "We have bought a new house and we are planning to move in next week"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Stay in",
+        "root": "Stay",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "english": "Remain at home",
+            "spanish": "Quedarse en casa(o cualquier lugar)",
+            "example": [
+                "I am going to stay in tonight and watch TV"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Succeed in sth",
+        "root": "Succeed",
+        "addon": "in",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Be or become successful",
+            "spanish": "Triunfar",
+            "example": [
+                "I sure i am going to succeed in my new business"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Figure out sth",
+        "root": "Figure",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Understand, find the answer",
+            "spanish": "Entender/imaginar",
+            "example": [
+                "I can't figure out what is happening"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Fill out sth",
+        "root": "Fill",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Add information to a form",
+            "spanish": "Rellenar un formulario",
+            "example": [
+                "It took me minutes to fill out the form"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Bring it on!",
+        "root": "bring",
+        "addon": "on",
+        "aux": "it",
+        "meanings": [{
+            "english": "",
+            "spanish": "Venga, vamos!",
+            "example": [
+                "If you think you can beat me, bring it on!"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Run across",
+        "root": "run",
+        "addon": "across",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Toparse con, encontrar, descubrir",
+            "example": [
+                "Today I run across an amazing website for learning English"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Bump into",
+        "root": "bump",
+        "addon": "into",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Toparse con, encontrar, descubrir",
+            "example": [
+                "Today I bump into an amazing website for learning English"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Came down to",
+        "root": "came",
+        "addon": "down",
+        "aux": "to",
+        "meanings": [{
+            "english": "",
+            "spanish": "Reducirse a",
+            "example": [
+                "In the end, it all comes down to how we react to our ploblems"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Pull over",
+        "root": "Pull",
+        "addon": "over",
+        "aux": "",
+        "meanings": [{
+            "english": "Stop by the side of the road; make a vehicle stop",
+            "spanish": "Parar o hacer parar un segundo con el coche",
+            "example": [
+                "I decided to pull over and look at the map once again"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Remind sb of sb/sth",
+        "root": "Remind",
+        "addon": "of",
+        "aux": "sb",
+        "end": "sb/sth",
+        "meanings": [{
+            "english": "Make someone remember on think about sth",
+            "spanish": "Hacar a alguien recordar algo",
+            "example": [
+                "This song reminds me of our holiday"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Run across/into sb/sth",
+        "root": "Run",
+        "addon": "across/into",
+        "aux": "sb/sth",
+        "meanings": [{
+            "english": "Meet sb or find sth by chance",
+            "spanish": "Toparse con alguien por casualidad",
+            "example": [
+                "I ran across my old friend in the bar yesterday"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Take over sth",
+        "root": "Take",
+        "addon": "over",
+        "aux": "sth",
+        "meanings": [{
+            "english": "Take control of",
+            "spanish": "Tomar el control",
+            "example": [
+                "James took over the family business when his father got ill"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Ask sb out",
+        "root": "ask",
+        "addon": "out",
+        "aux": "sb",
+        "meanings": [{
+            "english": "Pedirle salir a laguien",
+            "spanish": "",
+            "example": [
+                "Steven asked me out but I don't know if I should say yes"
+            ]
+        }],
+        "type": 0,
+        "level": "c1"
+    },
+    {
+        "infinitive": "Beat sb up",
+        "root": "beat",
+        "addon": "up",
+        "aux": "sb",
+        "meanings": [{
+            "english": "Kick sb ass off",
+            "spanish": "Darle una paliza a alguien",
+            "example": [
+                "A group of teenagers beat up our English teacher"
+            ]
+        }],
+        "type": 1,
+        "level": "c1"
+    },
+    {
+        "infinitive": "Freak out",
+        "root": "freak",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Asustarse, entrar en pánico",
+            "example": [
+                "My grandmother freaked out when she saw a cockroach in the kitchen"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get away with sth",
+        "root": "get",
+        "addon": "away with",
+        "aux": "sth",
+        "meanings": [{
+            "english": "",
+            "spanish": "Quedar impune, sin castigo",
+            "example": [
+                "Don't be temped to cheat in the exame, you won't get away with it"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get down",
+        "root": "get",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Bajarse",
+            "example": [
+                "Get down from that ladder now"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Get sb down",
+        "root": "get",
+        "addon": "down",
+        "aux": "sb",
+        "meanings": [{
+            "english": "",
+            "spanish": "Desanimar",
+            "example": [
+                "Don't let those critics let you down!"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Come down",
+        "root": "come",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Bajar a",
+            "example": [
+                "Are you coming down to London this weekend?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Come over",
+        "root": "come",
+        "addon": "over",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Venir, pasarse",
+            "example": [
+                "Would you like to come over for dinner tomorrow?"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Count on",
+        "root": "count",
+        "addon": "on",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Contar con/Fiarse de",
+            "example": [
+                "Please, don't worry, you can always count on me"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Cut down",
+        "root": "count",
+        "addon": "on",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Reducir el consumo de",
+            "example": [
+                "I think you should cut down on garlic, your breath stinks"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Drop sb/sth off",
+        "root": "drop",
+        "addon": "off",
+        "aux": "sb/sth",
+        "meanings": [{
+            "english": "",
+            "spanish": "Dejar a alguien o algo en un sitio",
+            "example": [
+                "Could you drop me off at the station?"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Drop out",
+        "root": "drop",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Dejar algo a medias/abandonar",
+            "example": [
+                "My university course was so boring, I dropped it out in the first semester"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Get out (of)",
+        "root": "Get",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Leave, exit, escape",
+            "example": [
+                "We got out of the taxi and paid the driver"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Go out with sb",
+        "root": "Go",
+        "addon": "out with",
+        "aux": "sb",
+        "meanings": [{
+            "english": "",
+            "spanish": "Have a romantic relationship, go on a date",
+            "example": [
+                "How long have you been going out with Tom?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Move out",
+        "root": "Move",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Stop living in a place",
+            "example": [
+                "I want to move out, I don't like this neighbourhood."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Run out",
+        "root": "Run",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Use all of sth and have none left",
+            "example": [
+                "We have run out of milk. Could you go and buy some?"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Focus sth on",
+        "root": "Focus",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "english": "",
+            "spanish": "Concentrate on",
+            "example": [
+                "She focused all her energy on her career"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get on sth",
+        "root": "Get",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "english": "",
+            "spanish": "Enter a bus or train",
+            "example": [
+                "How could she get on the wrong bus?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Have on sth",
+        "root": "Move",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "english": "",
+            "spanish": "Be wearing something",
+            "example": [
+                "I want to move out, I don't like this neighbourhood."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Eat out",
+        "root": "Eat",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Have a meal in a restaurant or a café",
+            "example": [
+                "I don't want to cook, let's eat out tonight."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Turn on",
+        "root": "Turn",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Start the function of a machine, equipment, etc.",
+            "example": [
+                "I turned on the radio to listen to the lastest news."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Go down",
+        "root": "Go",
+        "addon": "Down",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Decrease",
+            "example": [
+                "The prices go down after Christmas."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Slow down",
+        "root": "Slow",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Move more slowly.",
+            "example": [
+                "The car slowed down as it approached the crossroad."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Put down",
+        "root": "Put",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Stop holding and put somewhere.",
+            "example": [
+                "He stopped writing and put down his pen."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Take away",
+        "root": "Take",
+        "addon": "away",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Remove.",
+            "example": [
+                "We asked the waiter to take our plates away."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Cut off",
+        "root": "Cut",
+        "addon": "off",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Stop supply; remove something by cutting.",
+            "example": [
+                "Our telephone was cut off because we forgot to pay the bill."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Get off",
+        "root": "Get",
+        "addon": "off",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Leave the bus, train.",
+            "example": [
+                "Let's get off the bus and walk a little."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "See off",
+        "root": "See",
+        "addon": "off",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Go to say goodbye to someone who is leaving.",
+            "example": [
+                "My friend came to the airport to see me off."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Turn off",
+        "root": "Turn",
+        "addon": "off",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Leave the ground and start flying.",
+            "example": [
+                "Our plane took off on time."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Come back",
+        "root": "Come",
+        "addon": "back",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Return to a place.",
+            "example": [
+                "I've just come back from my holiday in Bali."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Fall over",
+        "root": "Fall",
+        "addon": "Over",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Fall on the ground.",
+            "example": [
+                "Suddenly, I lost my balance and fell over."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Hear of ",
+        "root": "Hear",
+        "addon": "of",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Know about something or somebody. To have news.",
+            "example": [
+                "I've heard nothing of them since 2013."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Look through",
+        "root": "Look",
+        "addon": "through",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Read quickly.",
+            "example": [
+                "I looked through my notes before the exam."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Name after",
+        "root": "Name",
+        "addon": "after",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Give someone a name to remember another person.",
+            "example": [
+                "He was named after his father."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Fool around",
+        "root": "Fool",
+        "addon": "around",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Have fun or behave in a silly way.",
+            "example": [
+                "They spent all the day fooling around on the beach."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Run around",
+        "root": "Run",
+        "addon": "around",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Be very busy doing a lot of different things.",
+            "example": [
+                "I ran around all day yesterday."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Break up",
+        "root": "Break",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "End a relationship.",
+            "example": [
+                "Tom and Sally broke up after 5 years of marriage."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Do up sth",
+        "root": "Do",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Fasten.",
+            "example": [
+                "Could you help me do up my dress?"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Dress up",
+        "root": "Dress",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Wear smart or special clothes.",
+            "example": [
+                "We don't have a dress code and I don't have to dress up for work."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Fill up sth",
+        "root": "Fill",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Fill to the top, make or become full.",
+            "example": [
+                "Fill this bottle up with water, please."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Heat up",
+        "root": "Heat",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Make something warmer or hotter.",
+            "example": [
+                "You can heat up the soup in the microwave."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Mix up",
+        "root": "Mix",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Confuse.",
+            "example": [
+                "I always mix those twins up, they look so like each other."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Queue up",
+        "root": "Queue",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Wait in line with other people.",
+            "example": [
+                "We queued up to get the tickets for the film."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Set up",
+        "root": "Set",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Start a company.",
+            "example": [
+                "He set up his first business at the age of 27."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Stay up",
+        "root": "Stay",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Not going to bed.",
+            "example": [
+                "Don't stay up too late before the exam."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Break into",
+        "root": "Break",
+        "addon": "into",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Enter a building or an apartment by force to steal something.",
+            "example": [
+                "The thieves broke into the house when the Johnsons were away on holiday."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Hand in",
+        "root": "Hand",
+        "addon": "in",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Submit. Give something to someone in authority.",
+            "example": [
+                "We must hand in our essays on Friday."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Let in",
+        "root": "Let",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Allow someone to enter.",
+            "example": [
+                "I knocked on the door and they let me in."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Go in",
+        "root": "Go",
+        "addon": "in",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Like, enjoy something.",
+            "example": [
+                "Do you go in for sport?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Carry on",
+        "root": "Carry",
+        "addon": "on",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "Continue doing something.",
+            "example": [
+                "Carry on with your work till the end of the lesson."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get on",
+        "root": "Get",
+        "addon": "on",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "Have a friendly relationship.",
+            "example": [
+                "Do you get on well with your colleagues?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Live on",
+        "root": "Live",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Have a particular amount of money to buy the things you need.",
+            "example": [
+                "The pension is too small to live on."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Rely on",
+        "root": "Rely",
+        "addon": "on",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Trust.",
+            "example": [
+                "If you need some help you can always rely on me."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Insist on",
+        "root": "Insist",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Demand.",
+            "example": [
+                "His parents wanted him to be a lawyer, but he insisted on a career as a musician."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Cross out",
+        "root": "Cross",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Draw a line through something.",
+            "example": [
+                "If you make a mistake just cross it out."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Hand out",
+        "root": "Hand",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Distribute to a group of people.",
+            "example": [
+                "The teacher handed out the test papers to the class."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Let out",
+        "root": "Let",
+        "addon": "out",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Allow somebody to leave or go out.",
+            "example": [
+                "I don't like that my neighbours let out their dogs at night."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Look out",
+        "root": "Look",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Be careful.",
+            "example": [
+                "Look out! There is a car coming!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Rent out",
+        "root": "Rent",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Allow somebody to use something in return for payment.",
+            "example": [
+                "Most apartments in this building are rented out to students."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Take out",
+        "root": "Take",
+        "addon": "out",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Invite somebody to go with you somewhere.",
+            "example": [
+                "They took the children out to the zoo."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Note down",
+        "root": "Note",
+        "addon": "down",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Write something, so that you don't forget it.",
+            "example": [
+                "Did you note down this phone number?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Shut down",
+        "root": "Shut",
+        "addon": "down",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Stop operating. Close a business.",
+            "example": [
+                "The café shut down after numerous complaints from customers."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Give away",
+        "root": "Give",
+        "addon": "away",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Give something for free.",
+            "example": [
+                "They are giving away free tickets for the concert."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Keep away",
+        "root": "Keep",
+        "addon": "away",
+        "aux": "from",
+        "meanings": [{
+            "spanish": "",
+            "english": "Not allow someone to go or be near something.",
+            "example": [
+                "You should keep away from this dangerous area."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Pass by",
+        "root": "Pass",
+        "addon": "by",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Going/passing without stopping.",
+            "example": [
+                "He was just passing by when he saw the accident."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Put aside",
+        "root": "Put",
+        "addon": "aside",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Save money for a particular purpose.",
+            "example": [
+                "I put aside 100 euros a month for my summer holidays."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Get back",
+        "root": "Get",
+        "addon": "back",
+        "aux": "from",
+        "meanings": [{
+            "spanish": "",
+            "english": "Return to a place, activity.",
+            "example": [
+                "What time will you get back from work?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Take back",
+        "root": "Take",
+        "addon": "back",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Return something. Return words.",
+            "example": [
+                "I need to take the books back to the library next week."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Put back sth",
+        "root": "Put",
+        "addon": "back",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Put something where it was before.",
+            "example": [
+                "Can you put these books back on the shelves, please?"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Pay off",
+        "root": "Pay",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Pay all of your debt.",
+            "example": [
+                "He is working hard to pay off his debts."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Set off",
+        "root": "Set",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Start a journey.",
+            "example": [
+                "When do you set off for Asia?"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Consist of sth",
+        "root": "Consist",
+        "addon": "of",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Be made up of two or more parts or things.",
+            "example": [
+                "Breakfast consisted of eggs, ham, bread and coffee."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Deal with sth/sb",
+        "root": "Deal",
+        "addon": "with",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Handle, take care of.",
+            "example": [
+                "Unfortunately, we were not prepared to deal with that sort of situations."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get together",
+        "root": "Get",
+        "addon": "together",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Meet, spend time together.",
+            "example": [
+                "Our team got together to discuss a problem."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Leave behind sth/sb",
+        "root": "Leave",
+        "addon": "behind",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Not take something or somebody with you.",
+            "example": [
+                "I was in a hurry and left my keys behind."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Take after",
+        "root": "Take",
+        "addon": "after",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Look like. Resemble someone in your family.",
+            "example": [
+                "She takes after her mother, both in appearance and character."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Lead to sth",
+        "root": "Lead",
+        "addon": "to",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Result in.",
+            "example": [
+                "Everybody knows that stress can lead to illness."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Add up sth",
+        "root": "Add",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Calculate.",
+            "example": [
+                "He is a smart boy and can easily add up numbers in his head."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Catch up with",
+        "root": "Catch",
+        "addon": "up",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "Stop being behind, reach the same standard or rate.",
+            "example": [
+                "I've missed many lessons so it will be hard to catch up."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Clear up sth",
+        "root": "Clear",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Make a place clean and tidy.",
+            "example": [
+                "Can you help me clear up the table after dinner?"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Mess up sth",
+        "root": "Mess",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Spoil or damage.",
+            "example": [
+                "I made a mistake that messed up my work."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Put up with",
+        "root": "Put",
+        "addon": "up",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "Tolerate, accept something unpleasant.",
+            "example": [
+                "I will never put up with smoking in the office."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Set up sth",
+        "root": "Set ",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Organize, plan (a meeting).",
+            "example": [
+                "Let's set up a meeting for Monday."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Crack up",
+        "root": "Crack",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To laugh uncontrollably.",
+                "example": [
+                    "It was so funny I cracked up."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To undergo a physical or mental breakdown.",
+                "example": [
+                    "I haven't slept for days, I'm close to cracking up."
+                ]
+            }
+        ],
+        "type": 1
+    },
+    {
+        "infinitive": "Show up",
+        "root": "Show",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Arrive, appear, attend something.",
+            "example": [
+                "We waited for him all the evening but he didn't show up."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Split up",
+        "root": "Split ",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Finish a relationship.",
+            "example": [
+                "They split up after 10 years of marriage."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Sum up sth",
+        "root": "Sum",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Give a summary. Describe briefly.",
+            "example": [
+                "At the end of the lesson, the teacher summed up the main points."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Take up sth",
+        "root": "Take ",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Start a new hobby.",
+            "example": [
+                "She took up yoga last year."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Carry out sth",
+        "root": "Carry",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Do or complete sth. Perform a task.",
+            "example": [
+                "The government carried out the reforms that had promised."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Come out",
+        "root": "Come",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Exit. Be published. Become available.",
+            "example": [
+                "Please come out, we need to go now."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Fall out with",
+        "root": "Fall",
+        "addon": "out",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "Have an argument with somebody.",
+            "example": [
+                "Anne felt depressed because she had fallen out with her husband."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Point out sth",
+        "root": "Point",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Indicate. Show.",
+            "example": [
+                "The teacher pointed out some spelling mistakes in my dictation."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Put out sth",
+        "root": "Put ",
+        "addon": "out",
+        "aux": "sth",
+        "meanings": [{
+                "spanish": "",
+                "english": "Extinguish. Stop something burning.",
+                "example": [
+                    "The fire brigade put out the fire quickly."
+                ]
+            }, {
+                "spanish": "",
+                "english": "To stop from burning.",
+                "example": [
+                    "It took firefighters many hours to put the fire out."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To move sth to a place that is easy to see or find.",
+                "example": [
+                    "Put the glass of milk out on the table."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To disturb, bother.",
+                "example": [
+                    "I need someone to check my mistakes, but I don't want to put you out."
+                ]
+            }
+        ],
+        "type": 1
+    },
+    {
+        "infinitive": "Turn out",
+        "root": "Turn",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Happen in a particular way or have a result.",
+            "example": [
+                "The exam turned out to be easier than we expected."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Leave out sth/sb",
+        "root": "Leave",
+        "addon": "out",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Not include. Omit.",
+            "example": [
+                "I decided to leave out the details of the story."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Cut down on",
+        "root": "Cut",
+        "addon": "down",
+        "aux": "on",
+        "meanings": [{
+            "spanish": "",
+            "english": "Reduce the amount.",
+            "example": [
+                "She is trying to cut down on the amount of sugar she eats every day."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Keep down sth",
+        "root": "Keep",
+        "addon": "down",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Stop from increasing.",
+            "example": [
+                "The government is trying to keep inflaction down."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Let down sb",
+        "root": "Let ",
+        "addon": "down",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Disappoint.",
+            "example": [
+                "Please, keep your promise. Don't let me down."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Settle down",
+        "root": "Settle",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Start living a quieter life in one place.",
+            "example": [
+                "Now, he wants to settle down and have a family."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Call off sth",
+        "root": "Call",
+        "addon": "off",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Cancel.",
+            "example": [
+                "The competition was called off because of the bad weather."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Live off sth/sb",
+        "root": "Live",
+        "addon": "off",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Depend on something or someone for money.",
+            "example": [
+                "He is unemployed at the moment and he is living off his parents."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Start up sth",
+        "root": "Start",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Begin a new business, organisation, etc.",
+            "example": [
+                "We started up some important projects last year."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Tell off sb",
+        "root": "Tell",
+        "addon": "off",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Speak angrily to someone. Criticise.",
+            "example": [
+                "The teacher told him off for not doing his homework."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Object to sth/sb",
+        "root": "Object",
+        "addon": "to",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Disagree with. Disapprove of.",
+            "example": [
+                "Most of the employees strongly object to the new rules."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Occur to sb",
+        "root": "Occur",
+        "addon": "to",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Come to one's mind.",
+            "example": [
+                "It never occurred to me that he might be lying to me."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Refer to sth/sb",
+        "root": "Refer",
+        "addon": "to",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "Mention or talk about something or somebody.",
+            "example": [
+                "In her book, she often refers to her happy childhood."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Relate to",
+        "root": "Relate",
+        "addon": "to",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Be about something or be connected with something.",
+            "example": [
+                "This article relates to the economic situation in the country."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Stick to",
+        "root": "Stick ",
+        "addon": "to",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Continue and not change.",
+            "example": [
+                "We need to stick to our original plan."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Get away with",
+        "root": "Get",
+        "addon": "away",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "Do something bad without being punished.",
+            "example": [
+                "He got away with cheating in his test again."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Pass away",
+        "root": "Pass",
+        "addon": "away",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Die.",
+            "example": [
+                "His grandfather passed away at the age of 98."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Dive into sth",
+        "root": "Dive",
+        "addon": "into",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Start something suddenly and energetically.",
+            "example": [
+                "Don't dive into this work without preparation."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Stand for sth",
+        "root": "Stand",
+        "addon": "for",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Mean. Represent.",
+            "example": [
+                "UNO stands for United Nations Organisation."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Turn into sth",
+        "root": "Turn",
+        "addon": "into",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Change or become something different.",
+            "example": [
+                "I hope this problem doesn't turn into a crisis."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get along with",
+        "root": "Get",
+        "addon": "along",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "Have a friendly relationship.",
+            "example": [
+                "She doesn't get along with her sister."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get over sth",
+        "root": "Get",
+        "addon": "over",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Recover. Feel better.",
+            "example": [
+                "It can take long time to get over a disease like that."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Hang around sth",
+        "root": "Hang",
+        "addon": "around",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "Spend time not doing much.",
+            "example": [
+                "Those guys usually hang around the beach all day."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Ask out",
+        "root": "Ask",
+        "addon": "out",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "To invite someone to a social engagement.",
+            "example": [
+                "Ellen asked me out and I said yes."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Be off",
+        "root": "Be",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "Leave a place or depart to another one.",
+            "example": [
+                "I think I will be off. See you later!"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Blow up",
+        "root": "Blow",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To explode something.",
+            "example": [
+                "Our pressure cooker blew up yesterday."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Blow out",
+        "root": "Blow",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To extinguish something (typically a flame) with some form of air, such as breath or wind.",
+            "example": [
+                "Make a wish before you blow out the candles."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Bring up",
+        "root": "Bring",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To raise someone or something. To care for someone or something up to adulthood. ",
+                "example": [
+                    "I was brought up in Spain."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To mention someone or something.",
+                "example": [
+                    "Sorry to bring this up again, but we should organise our meeting."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Butt in",
+        "root": "Butt",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "spanish": "Please, stop butting in! I need to talk.",
+            "english": "To interrupt someone or something.",
+            "example": [
+                ""
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Care about sth/sb",
+        "root": "Care",
+        "addon": "about",
+        "aux": "sth/sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "To have a strong feeling of love or affection for something or someone.",
+            "example": [
+                "There is nothing I care about more than my children."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Chop up",
+        "root": "Chop",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To cut or slice something into smaller pieces. ",
+            "example": [
+                "You can chop up the tomato, while I boil the pasta."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Close down",
+        "root": "Close ",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To cease business operations for any length of time (often permanently).",
+            "example": [
+                "That Chinese restaurant had to close down after the inspection."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Come across",
+        "root": "Come",
+        "addon": "across",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To find or see something or someone incidentally.",
+            "example": [
+                "I came across a 50 euros bill on my way to work this afternoon!"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Come down with",
+        "root": "Come ",
+        "addon": "down",
+        "aux": "with",
+        "meanings": [{
+            "spanish": "",
+            "english": "To become ill.",
+            "example": [
+                "I really think I am coming down with something."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Doze off",
+        "root": "Doze",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To fall asleep, typically unexpectedly or for just a short period of time.",
+            "example": [
+                "Suzanne dozzed off on the sofa."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Drop in",
+        "root": "Drop ",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To let go of something so that it enters something else.",
+                "example": [
+                    "He just dropped his donation into the yellow envelope."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To come to some place for a casual visit.",
+                "example": [
+                    "I'm working right now. Can you drop in later?"
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Eat up",
+        "root": "Eat",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To eat something, especially to eat all of it.",
+            "example": [
+                "Come on, eat it up. It will make you stronger."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "End up sth",
+        "root": "End",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "To conclude something.",
+            "example": [
+                "He ended up saying that he was wrong!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Fall behind",
+        "root": "Fall",
+        "addon": "behind",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To not be as current with task or activity as one should or ideally would be.",
+            "example": [
+                "They have fallen behind on their mortgage payments and now they are extremely worried."
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Fill in for sb",
+        "root": "Fill",
+        "addon": "in",
+        "aux": "for sb",
+        "meanings": [{
+                "spanish": "",
+                "english": "To substitute for someone or something.",
+                "example": [
+                    "Could you fill in for me next week? I am not feeling well."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To inform one of something.",
+                "example": [
+                    "Fill me in—what happened at the party two days ago?"
+                ]
+            }
+        ],
+        "type": 1
+    },
+    {
+        "infinitive": "Get away from",
+        "root": "Get",
+        "addon": "away",
+        "aux": "from",
+        "meanings": [{
+            "spanish": "",
+            "english": "To move away from someone or something.",
+            "example": [
+                "Be careful! Get away from that street!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Get down sb",
+        "root": "Get ",
+        "addon": "down",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "To cause one to feel saddened, depressed, discouraged, or dejected.",
+            "example": [
+                "Don't let these comments get you down, darling!"
+            ]
+        }],
+        "type": 1
+    },
+    {
+        "infinitive": "Give in",
+        "root": "Give",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": " To collapse, crumble, or cave in.",
+                "example": [
+                    "They were able to get the kids out of the house before that roof gave in."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To hand in, deliver, or submit (something).",
+                "example": [
+                    "Please give in your papers before tomorrow."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To cease opposition; yield.",
+                "example": [
+                    "The headmaster finally gave in to our demands."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Go away",
+        "root": "Go",
+        "addon": "away",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To leave a place",
+                "example": [
+                    "Go away right now. I want to be alone!"
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To take a vacation or short trip.",
+                "example": [
+                    "The family went away for a few days."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To stop existing or disappear",
+                "example": [
+                    "It took a long time for the pain to go away."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Go off",
+        "root": "Go",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "T leave a place and go somewhere else.",
+                "example": [
+                    "He went off as soon as he could."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "If a light or machine goes off, it stops working.",
+                "example": [
+                    "The heating goes off at ten o'clock."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "If something that makes a noise goes off, it suddenly starts making a noise.",
+                "example": [
+                    "My alarm didn't go off this morning."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "If food goes off, it stops being good to eat because it is too old.",
+                "example": [
+                    "Keep the meat in the fridge or it will go off."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To stop liking.",
+                "example": [
+                    "I've gone off Martin since he told me about his personal projects."
+                ]
+            }
+        ],
+        "type": 1
+    },
+    {
+        "infinitive": "Go through",
+        "root": "Go",
+        "addon": "through",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To have an unpleasant experience.",
+                "example": [
+                    "I have been through a lot these last months."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To look at thoroughly.",
+                "example": [
+                    "I went through every room in the apartment to find it."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To think about carefully.",
+                "example": [
+                    "In this lesson, we will go throw the past tenses."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Hang on",
+        "root": "Hang",
+        "addon": "on",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To wait for a short time.",
+                "example": [
+                    "Hang on a moment, I need to take my umbrella."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To hold on to sth with a strong grip.",
+                "example": [
+                    "Hang on tight!"
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To persist tenaciously.",
+                "example": [
+                    "That cold hung on all spring, how horrible it was!"
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Hang up sth",
+        "root": "Hang",
+        "addon": "up",
+        "aux": "sth",
+        "meanings": [{
+                "spanish": "",
+                "english": "To place on a hook or hanger designed for the purpose.",
+                "example": [
+                    "Hang up your towel, it is totally wet!"
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To break a telephone connection",
+                "example": [
+                    "Please, don't hang up. I want to talk a little bit more."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Head back",
+        "root": "Head ",
+        "addon": "back",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To begin the act of returning to some place or thing.",
+            "example": [
+                "It is getting dark, we could head back home now."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Hold on",
+        "root": "Hold",
+        "addon": "on",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To wait.",
+                "example": [
+                    "Hold on, we are almost there."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To keep a firm grip on.",
+                "example": [
+                    "Hold on tight to the railing."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To keep sth you already have.",
+                "example": [
+                    "Hold on your ticket, it will be necessary for the cinema."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Keep on",
+        "root": "Keep",
+        "addon": "on",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To continue happening, doing something, working, etc.",
+                "example": [
+                    "Don't keep on calling me, please."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To continue to have (someone) as an employee.",
+                "example": [
+                    "The company kept me on to teach people."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Keep up",
+        "root": "Keep",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To keep adequately informed or up-to-date.",
+                "example": [
+                    "Keep me up on international affairs."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To stay with someone who is moving forward by moving as quickly as them.",
+                "example": [
+                    "He walked so fast that I could not easily keep him up."
+                ]
+            }
+        ],
+        "type": 1
+    },
+    {
+        "infinitive": "Keep it up",
+        "root": "Keep ",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To carry on doing something at the same speed or as well as one is doing it at present.",
+            "example": [
+                "Very good, keep it up Elle!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Kick out",
+        "root": "Kick",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To force to leave.",
+            "example": [
+                "The English teacher kicked us out for throwing pencils."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Knock out",
+        "root": "Know",
+        "addon": "out",
+        "aux": "sb",
+        "meanings": [{
+                "spanish": "",
+                "english": "To cause to become unconscious.",
+                "example": [
+                    "Drugs sometimes knock people out.",
+                    "The boxer knocked this opponent out."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To surprise someone.",
+                "example": [
+                    "Her incredible voice knocked everyone out."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Knock over",
+        "root": "Knock",
+        "addon": "over",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To cause to fall from an upright position.",
+            "example": [
+                "The kid knocked over the plate."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Knock down",
+        "root": "Knock",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To hit somebody with a vehicle, causing them to fall.",
+                "example": [
+                    "She was knocked down by a bus."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To demolish a building.",
+                "example": [
+                    "They're knocking down the houses to make way for a new shopping centre."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Let off sb",
+        "root": "Let",
+        "addon": "off",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "To not punish sb at all or not as severely as you could have.",
+            "example": [
+                "The teacher let him off with a warning."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Lighten up",
+        "root": "Lighten",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To become happier and less serious.",
+            "example": [
+                "I wish she had lighten up."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Look into",
+        "root": "",
+        "addon": "",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To try to find more information about.",
+            "example": [
+                "We are looking into ways to improve our service."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Make up",
+        "root": "Make",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To invent something.",
+                "example": [
+                    "She made up some story about getting lost."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To equal a particular number or part.",
+                "example": [
+                    "Hispanics make up more than 50% of the population."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To replace something or compensate for something.",
+                "example": [
+                    "You have to make up the work you missed."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To become friends again after an argument.",
+                "example": [
+                    "We had an argument but we finally made up."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Pick up",
+        "root": "Pick",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To use your hands to lift.",
+                "example": [
+                    "She picked up the baby."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To go to a place to get.",
+                "example": [
+                    "I have to go and pick up the kids from school."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To learn.",
+                "example": [
+                    "I picked up new phrasal verbs when I visited England.",
+                    "You've picked up some bad habits."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To become infected with an illness.",
+                "example": [
+                    "He picked up a cold in Germany."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To buy, get, or obtain easily or cheaply.",
+                "example": [
+                    "I picked up those t-shirts for 7 euros."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To start again in the place where you stopped.",
+                "example": [
+                    "We'll pick up the discussion here tomorrow."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To answer a phone call.",
+                "example": [
+                    "I called four times but no one picked up."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Plug in",
+        "root": "Plug",
+        "addon": "in",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To connect up (an electrical apparatus) by inserting its plug into a socket.",
+            "example": [
+                "You didn't plug the toaster in."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Put on sth",
+        "root": "Put",
+        "addon": "on",
+        "aux": "sth",
+        "meanings": [{
+            "spanish": "",
+            "english": "To pull a piece of clothing onto your body or attach jewelry to it.",
+            "example": [
+                "He put on his Nike sneakers.",
+                "Put the  earrings on."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Put on weight",
+        "root": "Put",
+        "addon": "on",
+        "aux": "weight",
+        "meanings": [{
+            "spanish": "",
+            "english": "To become heavier.",
+            "example": [
+                "She has put on a lot of weight during these months."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Putting sb on",
+        "root": "Putting",
+        "addon": "on",
+        "aux": "sb",
+        "meanings": [{
+            "spanish": "",
+            "english": "To pretend something is true as a trick.",
+            "example": [
+                "She's not 28 - you're putting me on!"
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Put off",
+        "root": "Put",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To decide to do sth at a later time or date.",
+                "example": [
+                    "We have to put off the meeting until Sunday."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "Discourage.",
+                "example": [
+                    "I'm sure that sushi is lovely, but the look of it really puts me off.",
+                    "These reviews have put me off going to that restaurant."
+                ]
+            }
+        ],
+        "type": 1
+    },
+    {
+        "infinitive": "Rip off",
+        "root": "Rip",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To cheat somebody by taking money from them.",
+                "example": [
+                    "I got ripped off as soon as I left the shop."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To imitate a product, especially one of lower quality.",
+                "example": [
+                    "That artist ripped off my work."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To cut, tear apart, or tear away roughly or energetically.",
+                "example": [
+                    "The stripper has ripped off her shirt."
+                ]
+            }
+        ],
+        "type": 1
+    },
+    {
+        "infinitive": "Run into",
+        "root": "Run",
+        "addon": "into",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To meet by chance.",
+                "example": [
+                    "I ran into my uncle in the supermarket."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To start having difficulties/trouble/problems etc.",
+                "example": [
+                    "Her business had run into tremendous difficulties."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Run over",
+        "root": "Run",
+        "addon": "over",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To hit with a vehicle.",
+            "example": [
+                "Yesterday, my brother accidentally ran over a rabbit."
+            ]
+        }],
+        "type": 0
+    },
+    {
+        "infinitive": "Show off",
+        "root": "Show ",
+        "addon": "off",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To make other people admire your abilities or achievements in a way that is annoying.",
+                "example": [
+                    "Stop showing off your new Iphone. I cannot afford it!"
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To display something you are proud of.",
+                "example": [
+                    "This is an opportunity for teenagers to show off their abilities."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Sort out",
+        "root": "Sort",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "Deal with a problem successfully.",
+                "example": [
+                    "Tell me about your worries and we will try to sort them out."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To place or arrange according to class, kind, or size. To classify.",
+                "example": [
+                    "Sorted the CDs out into boxes by artists."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Turn down",
+        "root": "Turn ",
+        "addon": "down",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To not accept an offer.",
+                "example": [
+                    "I turned down the job because of the salary."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "To decrease the level of sound, heat, etc. that a device is producing.",
+                "example": [
+                    "Can you turn the tv down, please?"
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Work out",
+        "root": "Work",
+        "addon": "out",
+        "aux": "",
+        "meanings": [{
+                "spanish": "",
+                "english": "To do exercises to make your body stronger.",
+                "example": [
+                    "I usually work out at 10 am."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "If a problem or situation works out, it gradually becomes better.",
+                "example": [
+                    "I hope we can work it out as soon as possible."
+                ]
+            },
+            {
+                "spanish": "",
+                "english": "Calculate.",
+                "example": [
+                    "How much does the company owe you? Let me work it out in a minute.."
+                ]
+            }
+        ],
+        "type": 0
+    },
+    {
+        "infinitive": "Zip up",
+        "root": "Zip",
+        "addon": "up",
+        "aux": "",
+        "meanings": [{
+            "spanish": "",
+            "english": "To fasten something with a zip.",
+            "example": [
+                "She zipped up her coat."
+            ]
+        }],
+        "type": 0
+    }
+]
